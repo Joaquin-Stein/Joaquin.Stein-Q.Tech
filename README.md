@@ -1,5 +1,4 @@
-# Quantum Tech HD — Channel Performance Report
-### QforMedia · Business Operations Assistant · Take-Home Assignment
+# Quantum Tech HD — Joaquin Stein · Business Operations Assistant · Take-Home Assignment
 
 **Analyst:** Joaquin Stein · [joacostein@gmail.com](mailto:joacostein@gmail.com)
 
@@ -18,7 +17,7 @@ Interactive data dashboard built as part of the QforMedia take-home assignment f
 | Task | Description |
 |---|---|
 | Task 1 | Data overview, cleaning, and manual category classification |
-| Task 2 | Performance analysis — views, CTR, retention, trends |
+| Task 2 | Performance analysis -> views, CTR, retention, trends |
 | Task 3 | A/B thumbnail test analysis across 5 tests |
 | Task 4 | Insights and recommendations |
 | Bonus | Interactive dashboard (this page) |
